@@ -1,4 +1,4 @@
-name: flutter_batterylevl_example
+name: flutter_batterylevl
 description: Demonstrates how to use the flutter_batterylevl plugin.
 
 dependencies:
